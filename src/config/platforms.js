@@ -3,6 +3,11 @@
  * @type {Object.<string, string>}
  */
 export const PLATFORMS = {
+  //LTCTM
+  "ip-tmdb": "https://api.themoviedb.org",
+  "ip-tmdbimage": "https://image.tmdb.org",
+  "ip-ghapi": "https://api.github.com",
+  //常规
   gh: 'https://github.com',
   gl: 'https://gitlab.com',
   gitea: 'https://gitea.com',
