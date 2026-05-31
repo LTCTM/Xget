@@ -25,6 +25,8 @@ export const PLATFORM_CATALOG = {
   "ip-tmdb": "https://api.themoviedb.org",
   "ip-tmdbimage": "https://image.tmdb.org",
   "ip-ghapi": "https://api.github.com",
+  "ip-bgmtv":"https://api.bgm.tv",
+  "ip-bgmtvimage":"https://lain.bgm.tv",
 
   // Code Repositories & Version Control
   gh: 'https://github.com',
